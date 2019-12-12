@@ -1,0 +1,45 @@
+CASE 1 'Initialize min and MaX x and y
+ xmin = 1000: ymin = xmin: xmax = -xmin: ymax = -ymin
+ CASE 2 TO 99 'Skip these
+ CASE 100 TO 999 'Update min and max x and y
+IF x < xmin THEN xmin = x
+IF x > xmax THEN xmax = x
+IF Y < ymin THEN ymin = y
+IF Y > ymax THEN ymax = Y
+CASE 1000 'Clear the screen and resca1e
+CLS
+IF CSNG(xmax) = CSNG(xmin) THEN xmax = xmin + 1
+IF CSNG (ymax) = CSNG (ymin) THEN ymax = ymin + 1
+dx = (xmax - xmin) / 10: xmin = xmin - dx: xmax = xmax + dx
+dy = (ymax - ymin) / 10: ymin = ymin - dy: ymax = ymax + dy
+w% = 640 / (xmax - xmin): h% = 480 / (ymin - ymax)
+CASE ELSE 'Plot the data
+xp% = w% * (x - xmin)
+yp% = h% * (y - ymax)
+PSET (xp%, yp%) 'Illuminate screen pixel
+END SELECT
+END SUB
+SUB 1yapunov (x, y, n%, 1) 'Calculate Lyapunov Exp (1)
+STATIC xe, ye, lsum
+IF n% = 1 THEN lsum = 0: xe = .000001*: ye = 0
+xsave = x: ysave = y: x = xe: y = ye
+CALL advancexy(x, y, n% - 1) 'Reiterate equations
+dx = x - xsave: dy = y - ysave: d2 = dx * dx + dy * dy
+df = 100000000000* * d2: rs = 1* / SQR(df)
+xe = xsave + rs * (x - xsave): x = xsave
+ye = ysave + rs * (y - ysave): y = ysave
+lsum = lsum + LOG(df)
+1 = .721348 * lsum / n% 'Convert to bits per iteration
+END SUB
+SUB setparams (x, y) 'Set a() and initialize (x, y)
+SHARED a()
+x = 0: y = 0
+FOR i% = 1 TO 12: a(i%) = (INT(25 * RND) - 12) / 10*: NEXT i%
+END SUB
+SUB testso1n (x, y, n%) 'Test solution at (x, y. n%)
+nmax% = 10000 'Bailout value
+CALL lyapunov(x, y, n%, 1) 'Get Lyapunov exponent (1)
+IF n% = nmax% THEN n% = 0 'Bailout value reached
+IF n% > 100 AND 1 < .005 THEN n% = 0 'Solution is not chaotic
+IF ABS(x) + ABS(y) > 1000000* THEN n% = 0 'Solution is unbounded
+END SUB

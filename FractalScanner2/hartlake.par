@@ -1,0 +1,300 @@
+har1{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.303566225882553/-1.22167209449919 center-mag=-0.308654612661791/0.772240320320758/7.05472586164635/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har2{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=-0.268734857301784/-1.27835009976973 center-mag=0.551377470363984/0.102634599494342/6.76898695403661/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har3{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.11609305075555/-1.11576371385034 center-mag=0.117600406747492/0.374934636458533/6.66040127409795/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har4{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116025592844513/-1.11585337415024 center-mag=0.117633380944278/0.374744691868228/6.66049525535425/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har5{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.647152161190138/-0.376477654614076 center-mag=0.743779162351776/0.172204231421582/6.87797170012662/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har6{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116355501221013/-1.11562997423467 center-mag=0.117572965812381/0.375276719217669/6.66009774721317/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har7{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.11621228174994/-1.11570293935994 center-mag=0.117588076540944/0.375090152967878/6.66026324380837/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har8{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.115935596410206/-1.11591024513962 center-mag=0.117648223922598/0.374607195090426/6.66060216387992/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har9{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.11609305075555/-1.11576371385034 center-mag=0.117600406747492/0.374934636458533/6.66040127409795/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har10{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116098591080514/-1.11577194826955 center-mag=0.117605209061814/0.374921351258869/6.66039746432222/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har11{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116438433543791/-1.11560983298882 center-mag=0.117574524406004/0.375343984543873/6.66000888080212/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har12{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116223653772709/-1.11571928344051 center-mag=0.117596987238583/0.375063999486984/6.66025703105924/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har13{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=-0.272689247742219/-1.73503371721293 center-mag=-0.736297476501493/7.93215960861424E-02/7.25343456352176/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har14{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116234719536492/-1.11573571962684 center-mag=0.11760648087772/0.375037844227443/6.66025037429369/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har15{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116139310417504/-1.11578435850159 center-mag=0.117616267450882/0.374913335406856/6.66036067038834/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har16{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.115817609846961/-1.11592614083401 center-mag=0.117639952211853/0.374535035283316/6.66072515336214/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har17{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122046761624001/-1.11744920067943 center-mag=0.118503696632279/0.377379267705387/6.64670678106579/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har18{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116217834092325/-1.11571113438802 center-mag=0.117592786893233/0.375077124737621/6.6602600323665/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har19{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122290708264953/-1.11733589607984 center-mag=0.118483667076337/0.377677199572839/6.64642750809836/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har20{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=5.86048059580969E-02/-1.19925990823492 center-mag=-0.453934791885675/0.983713049767065/6.2650972850609/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har21{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.309740201174258/-1.2232563752578 center-mag=-0.30776915475243/0.774951835473264/7.0407800059688/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har22{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=-0.26256088201008/-1.27993438052834 center-mag=0.552262928273345/0.105346114646848/6.75504109835906/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har23{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122267026047254/-1.11734799460895 center-mag=0.118485864656853/0.377646151611039/6.6464554184204/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har24{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122199568136217/-1.11743765490885 center-mag=0.118518838853639/0.377456207020734/6.6465493996767/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har25{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122571689498505/-1.11718170351539 center-mag=0.118448923926298/0.378063515548392/6.64609981905845/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har26{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122529476512718/-1.11721425499328 center-mag=0.118458423721743/0.377988234370176/6.64615189153562/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har27{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122386257041645/-1.11728722011855 center-mag=0.118473534450306/0.377801668120384/6.64631738813082/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har28{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.12210957170191/-1.11749452589822 center-mag=0.118533681831959/0.377318710242933/6.64665630820237/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har29{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122267026047254/-1.11734799460895 center-mag=0.118485864656853/0.377646151611039/6.6464554184204/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har30{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122272566372218/-1.11735622902816 center-mag=0.118490666971176/0.377632866411375/6.64645160864467/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har31{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122612408835495/-1.11719411374743 center-mag=0.118459982315365/0.378055499696379/6.64606302512457/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har32{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122397629064413/-1.11730356419912 center-mag=0.118482445147944/0.37777551463949/6.64631117538169/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har33{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122193915057115/-1.11742945083714 center-mag=0.11851440161966/0.37746937432306/6.64655266887326/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har34{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122408694828197/-1.11732000038545 center-mag=0.118491938787082/0.377749359379949/6.64630451861614/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har35{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122313285709208/-1.1173686392602 center-mag=0.118501725360243/0.377624850559363/6.64641481471079/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har36{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.121991585138666/-1.11751042159262 center-mag=0.118525410121214/0.377246550435822/6.64677929768459/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har37{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=-0.278567731445196/-1.87685527976262 center-mag=0.273275711167007/0.975766370512007/7.30870906839361/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har38{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122391809384029/-1.11729541514663 center-mag=0.118478244802595/0.377788639890127/6.64631417668895/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har39{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=-0.211524978613753/-1.18734899124961 center-mag=-1.25431660642591E-02/0.222823001796573/6.64507688872224/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har40{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=5.86471586015877E-02/-1.1992273196705 center-mag=-0.453944637733989/0.98378829067224/6.26504538871083/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har41{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.309782553817749/-1.22322378669338 center-mag=-0.307779000600744/0.775027076378438/7.04072810961873/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har42{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=-0.262518529366589/-1.27990179196391 center-mag=0.552253082425031/0.105421355552022/6.75498920200899/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har43{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122309378690745/-1.11731540604453 center-mag=0.118476018808539/0.377721392516213/6.64640352207032/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har44{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122241920779708/-1.11740506634442 center-mag=0.118508993005325/0.377531447925908/6.64649750332662/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har45{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122614042141996/-1.11714911495096 center-mag=0.118439078077984/0.378138756453567/6.64604792270837/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har46{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122571829156208/-1.11718166642885 center-mag=0.118448577873428/0.37806347527535/6.64609999518555/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har47{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.770631625012589/-1.51392783406877 center-mag=0.750827484836122/0.416782887228378/6.106536135015/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har48{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122151924345401/-1.1174619373338 center-mag=0.118523835983645/0.377393951148107/6.64660441185229/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har49{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122309378690745/-1.11731540604453 center-mag=0.118476018808539/0.377721392516213/6.64640352207032/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har50{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122314919015709/-1.11732364046373 center-mag=0.118480821122862/0.37770810731655/6.6463997122946/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har51{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.213173832104291/-0.877892268591206 center-mag=-0.597527055457997/1.16713780828191/5.74074412857613/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har52{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122439981707904/-1.11727097563469 center-mag=0.11847259929963/0.377850755544665/6.64625927903161/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har53{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122236267700605/-1.11739686227272 center-mag=0.118504555771346/0.377544615228235/6.64650077252319/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har54{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122451047471688/-1.11728741182102 center-mag=0.118482092938768/0.377824600285124/6.64625262226607/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har55{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122355638352699/-1.11733605069578 center-mag=0.118491879511929/0.377700091464537/6.64636291836072/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har56{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122033937782157/-1.11747783302819 center-mag=0.1185155642729/0.377321791340997/6.64672740133451/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har57{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.128263089559196/-1.11900089287361 center-mag=0.119379308693326/0.380166023763068/6.63270902903817/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har58{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.12243416202752/-1.11726282658221 center-mag=0.118468398954281/0.377863880795301/6.64626228033887/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har59{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.128507036200148/-1.11888758827402 center-mag=0.119359279137384/0.38046395563052/6.63242975607074/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har60{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=5.84674061674075E-02/-1.19934102241268 center-mag=-0.453915480811762/0.983513358266637/6.26525978034884/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har61{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.309602801383568/-1.22333748943556 center-mag=-0.307749843678517/0.774752143972835/7.04094250125674/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har62{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=-0.262698281800769/-1.2800154947061 center-mag=0.552282239347258/0.105146423146419/6.755203593647/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har63{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122129626256565/-1.11742910878671 center-mag=0.118505175730766/0.37744646011061/6.64661791370833/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har64{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=-0.70118860222332/-0.581397996724856 center-mag=0.962124952410157/0.619773748415203/6.35930795381015/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har65{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122434289707816/-1.11726281769315 center-mag=0.118468235000211/0.377863824047964/6.64626231434638/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har66{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122392076722028/-1.11729536917104 center-mag=0.118477734795655/0.377788542869747/6.64631438682356/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har67{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.169555990925577/-1.16936170435246 center-mag=0.604890111912158/5.65559818613489E-02/6.58016113303729/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har68{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.12197217191122/-1.11757564007598 center-mag=0.118552992905872/0.377119018742504/6.64681880349031/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har69{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122129626256565/-1.11742910878671 center-mag=0.118505175730766/0.37744646011061/6.64661791370833/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har70{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122135166581529/-1.11743734320592 center-mag=0.118509978045088/0.377433174910947/6.64661410393261/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har71{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122475009044806/-1.11727522792519 center-mag=0.118479293389278/0.377855808195951/6.6462255204125/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har72{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122260229273723/-1.11738467837688 center-mag=0.118501756221857/0.377575823139061/6.64647367066962/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har73{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122056515266425/-1.1175105650149 center-mag=0.118533712693573/0.377269682822631/6.6467151641612/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har74{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122271295037507/-1.11740111456321 center-mag=0.118511249860994/0.377549667879521/6.64646701390408/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har75{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122175885918519/-1.11744975343796 center-mag=0.118521036434156/0.377425159058934/6.64657730999873/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har76{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.121854185347976/-1.11759153577038 center-mag=0.118544721195127/0.377046858935393/6.64694179297253/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har77{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.128083337125015/-1.1191145956158 center-mag=0.119408465615553/0.379891091357465/6.63292342067618/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har78{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=-0.842575273710493/-1.21535690938268 center-mag=-0.197159463738666/0.590757569452931/5.7183588006924/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har79{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.128327283765968/-1.11900129101621 center-mag=0.119388436059611/0.380189023224916/6.63264414770875/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har80{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=5.24546794853721E-02/-1.19766347392798 center-mag=-0.454822684264182/0.981032624628049/6.27901549830572/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har81{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.303590074701533/-1.22165994095086 center-mag=-0.308657047130937/0.772271410334247/7.05469821921362/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har82{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=-0.268711008482805/-1.27833794622139 center-mag=0.551375035894838/0.102665689507831/6.76895931160389/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har83{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116116899574529/-1.11575156030201 center-mag=0.117597972278346/0.374965726472022/6.66037363166522/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har84{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116049441663492/-1.11584122060191 center-mag=0.117630946475132/0.374775781881717/6.66046761292152/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har85{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.11642156302578/-1.11558526920844 center-mag=0.117561031547791/0.375383090409376/6.66001803230327/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har86{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116379350039993/-1.11561782068633 center-mag=0.117570531343236/0.375307809231159/6.66007010478044/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har87{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.11623613056892/-1.11569078581161 center-mag=0.117585642071799/0.375121242981367/6.66023560137564/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har88{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.115959445229185/-1.11589809159128 center-mag=0.117645789453452/0.374638285103916/6.66057452144719/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har89{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116116899574529/-1.11575156030201 center-mag=0.117597972278346/0.374965726472022/6.66037363166522/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har90{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116122439899493/-1.11575979472122 center-mag=0.117602774592669/0.374952441272359/6.66036982188949/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har91{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.11646228236277/-1.11559767944048 center-mag=0.117572089936858/0.375375074557363/6.65998123836939/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har92{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116247502591688/-1.11570712989218 center-mag=0.117594552769437/0.375095089500474/6.66022938862651/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har93{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.11604378858439/-1.1158330165302 center-mag=0.117626509241153/0.374788949184044/6.66047088211809/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har94{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116258568355472/-1.1157235660785 center-mag=0.117604046408575/0.375068934240933/6.66022273186097/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har95{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116163159236483/-1.11577220495326 center-mag=0.117613832981736/0.374944425420346/6.66033302795561/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har96{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.115841458665941/-1.11591398728567 center-mag=0.117637517742707/0.374566125296806/6.66069751092941/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har97{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.12207061044298/-1.11743704713109 center-mag=0.118501262163133/0.377410357718877/6.64667913863307/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har98{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.116241682911304/-1.11569898083969 center-mag=0.117590352424088/0.37510821475111/6.66023238993377/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har99{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=0.122314557083932/-1.1173237425315 center-mag=0.118481232607191/0.377708289586329/6.64639986566564/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}
+har100{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=HARTLAK.MAP params=-14.4881789684296/-20.0614229440689 center-mag=-14.6951051354408/-16.6535866558552/11.9693342447281/1/0 maxiter=256 bailoutest=mod inside=zmag outside=iter
+}

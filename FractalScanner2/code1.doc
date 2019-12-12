@@ -1,0 +1,24 @@
+Program code 4.1. BASIC Program to Search for Strange Attractors from
+Two-Dimensional Quadratic Maps
+DEFDBL A-Z 'Use double precision
+DIM a(12) 'Array of coefficients
+RANDOMIZE TIMER 'Reseed random numbers
+SCREEN 12 'Assume VGA graphics
+n% = 0
+WHILE INKEY$ = "" 'Loop until a key is pressed
+IF n% = 0 THEN CALL setparams(x, y)
+CALL advancexy(x, y, n%) 'Advance the solution
+CALL display(x, y, n%) 'Display the results
+CALL testsoln(x, y, n%) 'Test the solution
+WEND
+END
+SUB advancexy (x, y, n%) 'Advance (x, y) at step n%
+SHARED a ( )
+xnew = a(l) + x * (a(2) + a(3) * x + a(4) * y) + y * (a(5) + a(6) * y
+y = a(7) + x * (a(8) + a(9) * x + a(10) * y) + y * (a(ll) + a(12) * Y
+x = xnew
+n% = n% + 1
+END SUB
+SUB display (x, y, n%) 'Display (x, y) at step n%
+STATIC xmin, xmax, ymin, ymax, w%, h%
+SELECT CASE n%

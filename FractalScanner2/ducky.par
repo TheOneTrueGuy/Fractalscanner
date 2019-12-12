@@ -1,0 +1,300 @@
+duc1{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.951071040106648/0.45141100166526 center-mag=-1.11093896612369/-1.12829260762446/4.92654159857203/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc2{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.90552653448471/0.325807500163487 center-mag=-0.509311501528751/-0.96058582545611/4.27306080891343/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc3{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.2576715110254/-0.158416494553861 center-mag=-4.12920141746138E-02/-0.712516518550801/5.23319722289405/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc4{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.941139199606386/0.448243022518107 center-mag=-1.1095568864868/-1.11995853006334/4.91161602241747/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc5{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.940661669966032/0.447087779989891 center-mag=-1.10531739081733/-1.11744699277758/4.91682882625219/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc6{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.942233910318776/0.448001102198672 center-mag=-1.11316273938477/-1.12027653371408/4.90391494043024/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc7{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.00760754713856/0.399817982960602 center-mag=-0.996564722827925/-1.23650057448534/4.94528572387737/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc8{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.951108848171509/0.452968297372437 center-mag=-1.11272761880013/-1.12980538050521/4.92567815171989/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc9{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.938844321000934/0.44360828914206 center-mag=-1.09462829804939/-1.11132398918187/4.931406954877/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc10{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.943045727668956/0.45076602873438 center-mag=-1.11787451056701/-1.12448483793231/4.89858745071521/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc11{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.942471534844309/0.448278604863851 center-mag=-1.11271471662437/-1.1202471675331/4.90031943560012/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc12{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.940714051504001/0.448341113146503 center-mag=-1.10722097016022/-1.11922355470121/4.9158670875006/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc13{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.950417198490373/0.450405245103211 center-mag=-1.10696671820033/-1.1258096908015/4.93153223219146/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc14{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.951923983597402/0.453003208003713 center-mag=-1.11473254273377/-1.13053588301898/4.91800553826266/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc15{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.952380206160048/0.456404851889564 center-mag=-1.1210901498889/-1.13547356863044/4.91530229683995/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc16{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.950409911753819/0.450557226378493 center-mag=-1.1069092548671/-1.12567779628006/4.93158137814119/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc17{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.941428623026731/0.447261222271152 center-mag=-1.1076376711829/-1.11805785038396/4.9089336879682/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc18{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.952500490961084/0.453012354981183 center-mag=-1.11773330091941/-1.13091227914655/4.91339621165296/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc19{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.941808979835804/0.447998328900695 center-mag=-1.11059873349678/-1.11959645138463/4.90810432083393/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc20{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.617906564190232/0.577593107934811 center-mag=-1.0461766087966/-1.600196893635/5.08768977593519/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc21{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.95113741677544/0.451368359579354 center-mag=-1.11307237100004/-1.12918787028482/4.92556878405215/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc22{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.942530624776547/0.448387944053227 center-mag=-1.11479065816749/-1.12101053567201/4.89939576702997/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc23{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.02984191258128/-4.43135000812351E-02 center-mag=-0.847963311392575/-0.637773010154026/5.00925213454758/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc24{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.941205576275178/0.448200380432201 center-mag=-1.11169029136315/-1.1208537927237/4.9106432078976/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc25{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.940728046634823/0.447045137903985 center-mag=-1.10745079569368/-1.11834225543794/4.91585601173232/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc26{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.942300286987567/0.447958460112766 center-mag=-1.11529614426112/-1.12117179637443/4.90294212591036/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc27{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.00767392380736/0.399775340874695 center-mag=-0.998698127704273/-1.23739583714569/4.94431290935749/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc28{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.975988519251007/1.36440989677213 center-mag=-0.920074951899137/-1.85083883534238/5.37744052282319/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc29{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.938910697669726/0.443565647056153 center-mag=-1.09676170292573/-1.11221925184222/4.93043414035713/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc30{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.943112104337748/0.450723386648474 center-mag=-1.12000791544336/-1.12538010059266/4.89761463619533/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc31{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.9425379115131/0.448235962777945 center-mag=-1.11484812150071/-1.12114243019345/4.89934662108025/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc32{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.940780428172792/0.448298471060597 center-mag=-1.10935437503657/-1.12011881736157/4.91489427298073/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc33{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.950483575159164/0.450362603017304 center-mag=-1.10910012307668/-1.12670495346185/4.93055941767159/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc34{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.951990360266194/0.452960565917807 center-mag=-1.11686594761012/-1.13143114567934/4.91703272374278/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc35{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.95244658282884/0.456362209803657 center-mag=-1.12322355476525/-1.13636883129079/4.91432948232008/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc36{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.950476288422611/0.450514584292587 center-mag=-1.10904265974345/-1.12657305894041/4.93060856362131/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc37{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.941494999695523/0.447218580185246 center-mag=-1.10977107605924/-1.11895311304431/4.90796087344832/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc38{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.952566867629875/0.452969712895277 center-mag=-1.11986670579575/-1.1318075418069/4.91242339713308/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc39{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.941875356504596/0.447955686814789 center-mag=-1.11273213837313/-1.12049171404498/4.90713150631405/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc40{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.618825682454078/0.577377497098835 center-mag=-1.04904869815387/-1.60070031781747/5.08017264440704/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc41{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.952056535039286/0.451152748743378 center-mag=-1.11594446035731/-1.12969129446729/4.91805165252401/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc42{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=5.01347328026103E-03/0.571304681277859 center-mag=-1.26023407759525/-0.383168813675278/4.75493040761944/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc43{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.03076103084512/-4.45291109172112E-02 center-mag=-0.850835400749844/-0.638276434336497/5.00173500301944/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc44{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=4.91449534425277E-02/0.624811008228427 center-mag=-0.812152970243736/-0.26666034705601/4.18824084153669/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc45{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.94164716489867/0.446829527068009 center-mag=-1.11032288505095/-1.11884567962041/4.90833888020417/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc46{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.943219405251414/0.44774284927679 center-mag=-1.11816823361839/-1.1216752205569/4.89542499438222/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc47{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.0085930420712/0.399559730038719 center-mag=-1.00157021706154/-1.23789926132817/4.93679577782935/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc48{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.952094343104147/0.452710044450554 center-mag=-1.11773311303375/-1.13120406734803/4.91718820567187/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc49{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.939829815933573/0.443350036220177 center-mag=-1.099633792283/-1.11272267602469/4.92291700882898/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc50{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.944031222601594/0.450507775812498 center-mag=-1.12288000480063/-1.12588352477514/4.89009750466719/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc51{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.943457029776947/0.448020351941969 center-mag=-1.11772021085798/-1.12164585437592/4.8918294895521/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc52{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.941699546436639/0.448082860224621 center-mag=-1.11222646439384/-1.12062224154404/4.90737714145258/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc53{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.951402693423011/0.450146992181328 center-mag=-1.11197221243394/-1.12720837764432/4.92304228614344/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc54{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.95290947853004/0.45274495508183 center-mag=-1.11973803696739/-1.13193456986181/4.90951559221464/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc55{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.953365701092686/0.456146598967681 center-mag=-1.12609564412252/-1.13687225547326/4.90681235079193/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc56{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.951395406686457/0.45029897345661 center-mag=-1.11191474910072/-1.12707648312288/4.92309143209317/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc57{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.942414117959369/0.44700296934927 center-mag=-1.11264316541651/-1.11945653722678/4.90044374192018/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc58{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.953485985893722/0.452754102059301 center-mag=-1.12273879515302/-1.13231096598937/4.90490626560494/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc59{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.942794474768442/0.447740075978813 center-mag=-1.1156042277304/-1.12099513822745/4.89961437478591/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc60{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.616376549432633/0.574876953112261 center-mag=-1.03779405108992/-1.59568101528188/5.10157437677909/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc61{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.949607402017841/0.448652204756804 center-mag=-1.10468981329336/-1.1246719919317/4.93945338489606/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc62{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.941000610018948/0.445671789230677 center-mag=-1.10640810046081/-1.11649465731889/4.91328036787388/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc63{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.02831189782368/-4.70296549037853E-02 center-mag=-0.839580753685894/-0.633257131800907/5.02313673539149/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc64{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.93967556151758/0.445484225609651 center-mag=-1.10330773365647/-1.11633791437058/4.92452780874151/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc65{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.939198031877225/0.444328983081435 center-mag=-1.099068237987/-1.11382637708482/4.92974061257622/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc66{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.940770272229969/0.445242305290216 center-mag=-1.10691358655444/-1.11665591802131/4.91682672675427/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc67{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.00614390904976/0.397059186052145 center-mag=-0.990315569997592/-1.23287995879258/4.9581975102014/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc68{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.94861881809967/0.911014558943289 center-mag=-1.65969098943019/-0.254060569713567/5.1947381571525/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc69{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.937380682912128/0.440849492233603 center-mag=-1.08837914521905/-1.1077033734891/4.94431874120103/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc70{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.94158208958015/0.448007231825924 center-mag=-1.11162535773668/-1.12086422223955/4.91149923703924/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc71{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.941007896755502/0.445519807955395 center-mag=-1.10646556379403/-1.11662655184033/4.91323122192415/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc72{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.939250413415194/0.445582316238047 center-mag=-1.10097181732989/-1.11560293900845/4.92877887382463/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc73{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.948953560401566/0.447646448194754 center-mag=-1.10071756536999/-1.12218907510873/4.94444401851549/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc74{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.950460345508596/0.450244411095256 center-mag=-1.10848338990344/-1.12691526732622/4.93091732458669/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc75{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.950916568071241/0.453646054981107 center-mag=-1.11484099705857/-1.13185295293767/4.92821408316398/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc76{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.948946273665012/0.447798429470036 center-mag=-1.10066010203677/-1.12205718058729/4.94449316446522/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc77{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.939964984937924/0.444502425362696 center-mag=-1.10138851835256/-1.11443723469119/4.92184547429223/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc78{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.951036852872277/0.450253558072727 center-mag=-1.11148414808907/-1.12729166345378/4.92630799797699/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc79{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.940345341746997/0.445239531992239 center-mag=-1.10434958066645/-1.11597583569186/4.92101610715796/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc80{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.629133849382429/0.586744112174301 center-mag=-1.05962508501569/-1.61745776408155/5.09463159389786/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc81{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.962364701967637/0.460519363818843 center-mag=-1.12652084721913/-1.14644874073137/4.93251060201482/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc82{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.953757909968744/0.457538948292716 center-mag=-1.12823913438658/-1.13827140611856/4.90633758499264/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc83{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.04106919777347/-3.51624958417458E-02 center-mag=-0.861411787611666/-0.655033880600575/5.01619395251025/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc84{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.952432861467375/0.45735138467169 center-mag=-1.12513876758224/-1.13811466317025/4.91758502586027/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc85{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.95195533182702/0.456196142143474 center-mag=-1.12089927191277/-1.13560312588449/4.92279782969499/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc86{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.953527572179764/0.457109464352255 center-mag=-1.12874462048021/-1.13843266682098/4.90988394387303/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc87{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.01890120899955/0.408926345114185 center-mag=-1.01214660392336/-1.25465670759224/4.95125472732016/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc88{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.962402510032498/0.46207665952602 center-mag=-1.12830949989557/-1.14796151361211/4.93164715516269/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc89{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.950137982861923/0.452716651295643 center-mag=-1.11021017914482/-1.12948012228877/4.9373759583198/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc90{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=1.0319788500936/0.763905524539697 center-mag=-0.831405562728733/-2.02905585656015/4.63956898543852/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc91{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.953765196705297/0.457386967017434 center-mag=-1.1282965977198/-1.13840330064/4.90628843904291/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc92{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.952007713364989/0.457449475300086 center-mag=-1.12280285125566/-1.13737968780812/4.92183609094339/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc93{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.961710860351362/0.459513607256794 center-mag=-1.12254859929577/-1.1439658239084/4.93750123563425/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc94{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.963217645458391/0.462111570157296 center-mag=-1.13031442382921/-1.14869201612589/4.92397454170545/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc95{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.963673868021037/0.465513214043147 center-mag=-1.13667203098434/-1.15362970173734/4.92127130028275/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc96{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.961703573614808/0.459665588532076 center-mag=-1.12249113596254/-1.14383392938696/4.93755038158398/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc97{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.95272228488772/0.456369584424735 center-mag=-1.12321955227833/-1.13621398349086/4.91490269141099/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc98{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.963794152822072/0.462120717134766 center-mag=-1.13331518201484/-1.14906841225345/4.91936521509575/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc99{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=0.953102641696793/0.457106691054278 center-mag=-1.12618061459222/-1.13775258449153/4.91407332427672/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}
+duc100{
+batch=yes type=barnsleyj1 video=F3 savename=scan sound=no map=bnw5.map params=11.6011590835972/-0.875426887031064 center-mag=-4.29113442332546/6.87447403165945/8.45687916870035/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}

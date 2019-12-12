@@ -1,0 +1,4 @@
+face{
+type=barnsleyj1  
+ params=0.903851068874769/0.74681036880636 center-mag=-1.10852044371212/-1.22255183999922/3.94063637167165/1/0 maxiter=256 bailoutest=mod inside=bof61 outside=iter
+}

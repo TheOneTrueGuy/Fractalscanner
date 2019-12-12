@@ -1,0 +1,61 @@
+batch=yes type=julia video=F3 savename=best sound=no params=0.385085/-0.031478 center-mag=-0.320354/-0.575390/5.263591 inside=atan
+batch=yes type=julia video=F3 savename=scan sound=no  params=-0.766409/0.152256 center-mag=-0.122207/0.407241/2.695661
+batch=yes type=julia video=F3 savename=scan sound=no map=ASTRAL.MAP params=-0.665687/-0.378054 center-mag=-0.502672/0.143419/3.163911
+batch=yes type=julia video=F3 savename=scan sound=no map=ASTRAL.MAP params=-0.535906/-0.508301 center-mag=-0.600356/-0.220264/2.876209
+batch=yes type=julia video=F3 savename=sca map=MAGONE.MAP params=-0.87730/-0.233548 center-mag=-0.170549/-0.308055/5.017530
+batch=yes type=julia video=F3 savename=sun map=firestrm.map params=-0.7080/0.294903 center-mag=-0.412670/0.121522/2.899517
+type=julia video=F3 savename=joe map=JOE9.MAP params=0.389238/0.194877 center-mag=0.009180/0.434298/3.053758
+batch=yes type=julia video=F3 savename=scan sound=no map=MAGONE.MAP params=-0.544445/-0.514537 center-mag=0.448550/0.332609/4.024755
+batch=yes type=julia video=F3 savename=scan sound=no map=default.map params=-0.153985/0.846366 center-mag=-0.136066/-0.044567/3.352678
+batch=yes type=julia video=F3 savename=scan sound=no map=PATS.MAP params=-0.734940/0.217995 center-mag=0.261591/-0.133270/2.531482
+batch=yes type=julia video=F3 savename=scan sound=no map=PATS.MAP params=-0.7349399/0.217995 center-mag=0.2615906/-0.133270/2.531482
+batch=yes type=julia video=F3 savename=scan sound=no map=PATS.MAP params=-0.7131845/-0.292714 center-mag=0.3340639/0.049235/2.769142
+batch=yes type=julia video=F3 savename=scan sound=no map=PATS.MAP params=-0.7546563/-0.068225 center-mag=0.2878245/0.009304/2.437886
+batch=yes type=julia video=F3 savename=scan sound=no map=PATS.MAP params=-0.5213227/0.518231 center-mag=-0.4003411/0.236343/4.459891
+batch=yes type=julia video=F3 savename=scan sound=no map=JOE9.MAP params=-0.6557996/-0.421757 center-mag=-0.1919686/-0.155707/2.994028
+mickey:  batch=yes type=mandel video=F3 savename=scan sound=no map=goodega.map params=-0.190361321063423/0.281275542353171 center-mag=-0.362536307182028/-0.876601969655065/6.55766697902205
+mickey:  batch=yes type=mandel video=F3 savename=scan sound=no map=goodega.map params=0.180775117026219/7.57052367718674E-02 center-mag=-1.37694512574347/-3.79732775113001E-02/6.7429111402462
+mickey:  batch=yes type=mandel video=F3 savename=scan sound=no map=goodega.map params=0.209169160965488/0.432436036287172 center-mag=-0.771007832413137/-0.806375979277292/6.02065871157903
+faces: batch=yes type=julia video=F3 savename=scan sound=no map=PATS.MAP params=-0.553037/0.505304 center-mag=0.277528/-0.521206/4.438557 bailoutest=mod inside=bof61 outside=iter
+demoyinyang: batch=yes type=julia video=F3 savename=scan sound=no map=BLAKWHIT.MAP params=-0.624031/0.553688 center-mag=0.389715/-0.295738/3.134851 bailoutest=mod inside=Maxiter outside=iter
+	batch=yes type=julia video=F3 savename=scan sound=no map=BLAKWHIT.MAP params=-0.495098/0.685214 center-mag=0.391029/-0.362602/3.133863 bailoutest=mod inside=Maxiter outside=iter
+	batch=yes type=julia video=F3 savename=scan sound=no map=BLAKWHIT.MAP params=-0.470432/0.680990 center-mag=0.323159/-0.313719/3.073456 bailoutest=mod inside=Maxiter outside=iter
+	batch=yes type=julia video=F3 savename=scan sound=no map=BLAKWHIT.MAP params=-1.025652/0.188660 center-mag=-0.799455/0.152371/3.379136 bailoutest=manh inside=zmag outside=iter
+	batch=yes type=julia video=F3 savename=scan sound=no map=BLAKWHIT.MAP params=-0.702820/-0.405579 center-mag=0.067064/0.104734/2.507343 bailoutest=manh inside=zmag outside=iter
+  **	batch=yes type=julia video=F3 savename=scan sound=no map=DEMO.MAP params=-0.241081/-0.641684 center-mag=-1.102140/0.536092/2.991040/-2.393592/150.983555/190.457366712391 maxiter=32123 bailout=35845 bailoutest=mod inside=Maxiter outside=iter invert=0.230761747807264/0.424516428261995/0.019160270690918
+	batch=yes type=mandel video=F3 savename=scan sound=no map=BLAKWHIT.MAP params=1.868979/0.223780 center-mag=-0.373968/0.462013/5.283592/-0.231198/150.101131/200.393953323364 bailout=11349 bailoutest=mod inside=zmag outside=iter invert=0.104579716920853/-0.907850444316864/1.93746054172516
+crowd:  batch=yes type=julia video=F3 savename=scan sound=no map=altern.map params=-0.650336/0.356210 center-mag=0.331215/-0.347645/4.792701 bailoutest=mod inside=zmag outside=iter
+	batch=yes type=julia video=F3 savename=scan sound=no map=altern.map params=-0.668226/0.345769 center-mag=0.365542/-0.175271/4.587975 bailoutest=mod inside=zmag outside=iter
+	batch=yes type=julia video=F3 savename=scan sound=no map=altern.map params=-0.649141/0.383263 center-mag=0.319449/-0.245633/4.741625 bailoutest=mod inside=zmag outside=iter
+magone:
+batch=yes type=julia video=F3 savename=scan sound=no map=MAGONE.MAP params=0.384107/0.202471 center-mag=0.247552/0.596320/3.994783/-0.710109/158.012937/219.377725894057 bailout=38471 bailoutest=mod inside=zmag outside=iter
+batch=yes type=manowarj video=F3 savename=scan sound=no map=DUCER3.MAP params=-0.040004/0.004942 center-mag=-0.169545/0.110737/5.023014/1/108.251866 bailout=37627 bailoutest=mod inside=bof60 outside=iter
+boobs:
+	batch=yes type=magnet1j video=F3 savename=scan sound=no map=DUCER3.MAP params=0.062694/1.140276 center-mag=-0.303541/0.637914/5.563303/1/100.043815/219.113269643786 bailout=24110 bailoutest=real inside=bof61 outside=iter invert=-0.421668893828275/-0.430134772090911/-1.86303853988647E-02
+land:
+	batch=yes type=mandel video=F3 savename=scan sound=no map=green.map params=-0.520794/-0.306724 center-mag=0.328147/-0.765839/0.387349/0.553340/226.950593/174.559473192759 bailout=35842 bailoutest=mod inside=0 outside=iter invert=-0.566201115535232/0.250868183380094/0.303420186042786
+	batch=yes type=mandel video=F3 savename=scan sound=no map=green.map params=-0.573150/-0.061983 center-mag=0.476679/-0.572498/0.384137/0.795527/226.670411/175.270067884806 bailout=35842 bailoutest=mod inside=0 outside=iter invert=-0.549324635205082/0.113334161003259/0.456085205078125
+	batch=yes type=mandel video=F3 savename=scan sound=no map=green.map params=-0.515250/-0.063456 center-mag=0.453799/-0.586699/0.421917/0.693726/226.559577/175.211868457487 bailout=35842 bailoutest=mod inside=0 outside=iter invert=-0.535024584366801/0.153757031211913/0.74682092666626
+Ducer:
+	batch=yes type=barnsleyj3 video=F3 savename=ducer sound=no map=default.map params=-0.517129/-0.350507 center-mag=0.691492/-0.110013/2.491739/1/168.010691 bailout=47008 bailoutest=mod inside=zmag outside=iter invert=0.641043143703428/0.891645876166876/0.896291375160217
+	batch=yes type=julia video=F3 savename=ducer sound=no map=DUCER3.MAP params=-1.2992777/0.188831 center-mag=-0.1232537/0.023675/2.022519
+	batch=yes type=barnsleyj3 video=F3 savename=ducer sound=no map=default.map params=-0.255760/-0.513835 center-mag=0.167675/0.034645/2.061083/1/168.911746 bailout=46996 bailoutest=mod inside=zmag outside=iter invert=0.940808814729384/0.61906163967511/-0.914199590682983
+	batch=yes type=magnet1j video=F3 savename=ducer sound=no map=DUCER3.MAP params=1.083399/-1.151505 center-mag=-1.321108/-0.429822/4.001973/1/250.000786 maxiter=30515 bailout=29867 bailoutest=mod inside=Maxiter outside=iter invert=0.591580224299832/-0.220306729854201/-1.34251582622528
+	batch=yes type=magnet1j video=F3 savename=ducer sound=no map=DUCER3.MAP params=1.865487/-1.023222 center-mag=-0.505183/-0.267051/3.929146/1/252.727295 maxiter=30487 bailout=30254 bailoutest=mod inside=Maxiter outside=iter invert=0.524060582971288/-0.463890611808893/-1.34251582622528
+	batch=yes type=magnet1j video=F3 savename=ducer sound=no map=DUCER3.MAP params=1.641814/-1.049685 center-mag=-1.035282/0.035559/3.964525/1/252.758795 maxiter=30500 bailout=30244 bailoutest=mod inside=Maxiter outside=iter invert=0.521939008055597/-0.280401325717321/0.508838057518005
+	batch=yes type=magnet1j video=F3 savename=ducer sound=no map=DUCER3.MAP params=1.317210/-0.745316 center-mag=-0.555218/0.403925/4.330026/1/252.078661 maxiter=30518 bailout=30326 bailoutest=mod inside=Maxiter outside=iter invert=0.409647340375159/0.487227681223885/0.52128279209137
+	batch=yes type=magnet2j video=F3 savename=ducer sound=no map=DUCER3.MAP params=1.136443/0.972796 center-mag=-0.824539/0.376064/2.023001/1/266.166512 bailout=26221 bailoutest=or inside=zmag outside=iter invert=1.080193400383/-0.841363787651062/-1.26967334747314
+*gruvy:	batch=yes type=magnet2j video=F3 savename=ducer sound=no map=DUCER3.MAP params=0.538975/1.162297 center-mag=-0.518277/0.785265/2.360848/1/133.290145 bailout=30353 bailoutest=or inside=zmag outside=iter invert=-0.054593563079834/-0.613150358200073/-0.301273107528687
+	batch=yes type=magnet2j video=F3 savename=ducer sound=no map=DUCER3.MAP params=0.242282/1.325323 center-mag=0.227862/-0.084685/1.942432/1/148.982871 bailout=24604 bailoutest=or inside=zmag outside=iter invert=-0.862520217895508/0.267172574996948/-1.20171093940735
+	batch=yes type=magnet2j video=F3 savename=ducer sound=no map=DUCER3.MAP params=1.427379/-0.338812 center-mag=-0.869038/0.303991/1.546794/1/149.226205 bailout=42472 bailoutest=or inside=zmag outside=iter invert=0.309942540843622/-0.459232477824116/0.766584873199463
+	batch=yes type=mandel video=F3 savename=ducer sound=no map=DUCER3.MAP params=0.030856/0.625161 center-mag=-0.035987/-0.774053/5.273740/1/208.652014 bailout=40446 bailoutest=mod inside=zmag outside=iter invert=0.772542268037796/0.164505869150162/-1.59636580944061
+	batch=yes type=mandel video=F3 savename=ducer sound=no map=DUCER3.MAP params=-0.186857/0.607938 center-mag=-0.332098/-0.646413/3.758656/1/217.341721 bailout=34058 bailoutest=mod inside=zmag outside=iter invert=0.634978331625462/0.31956697255373/-1.10365581512451
+	batch=yes type=mandel video=F3 savename=scan sound=no map=DUCER3.MAP params=-0.300619/0.169304 center-mag=-0.628507/-0.726634/3.390848/1/202.150648 bailout=37330 bailoutest=mod inside=zmag outside=iter invert=0.7161235709209/0.630636712070554/0.687227249145508
+	batch=yes type=magnet1j video=F3 savename=scan sound=no map=DUCER3.MAP params=0.188165/1.131708 center-mag=-0.304289/0.479862/5.690274/1/99.493363/219.461812619469 bailout=24096 bailoutest=real inside=bof60 outside=iter invert=-0.377840883622412/-0.38112830783939/5.74773550033569E-02
+	batch=yes type=magnet1j video=F3 savename=scan sound=no map=DUCER3.MAP params=0.177400/1.113000 center-mag=-0.790641/1.028086/5.168474/1/100.623304/219.818144590862 bailout=24109 bailoutest=real inside=bof60 outside=iter invert=-0.473366166982768/-0.781648588823578/-0.326505780220032
+	batch=yes type=magnet1j video=F3 savename=scan sound=no map=DUCER3.MAP params=0.177136/1.112724 center-mag=-0.790769/1.028052/5.168783/1/100.622471/219.818780822716 bailout=24109 bailoutest=real inside=bof61 outside=iter invert=-0.473157557464771/-0.78174061413518/-0.272181987762451
+	batch=yes type=magnet1j video=F3 savename=scan sound=no map=DUCER3.MAP params=-0.000750/1.062562 center-mag=-0.468442/0.666556/5.523204/1/100.393146/219.116987701154 bailout=24110 bailoutest=real inside=bof61 outside=iter invert=-0.449397537639227/-0.321989497628331/3.08524787425995
+	batch=yes type=magnet1j video=F3 savename=scan sound=no map=DUCER3.MAP params=-0.022695/1.083046 center-mag=-0.422162/0.619055/5.583055/1/100.320821/219.052854675792 bailout=24110 bailoutest=real inside=bof61 outside=iter invert=-0.451623723474386/-0.332605407711637/-0.350839495658875
+	batch=yes type=magnet1j video=F3 savename=scan sound=no map=DUCER3.MAP params=0.000234/1.087465 center-mag=-0.487281/0.681913/5.534329/1/100.364165/219.183425993067 bailout=24110 bailoutest=real inside=bof61 outside=iter invert=-0.461525830443576/-0.393154073312163/-0.557644367218018
+	batch=yes type=magnet1j video=F3 savename=scan sound=no map=DUCER3.MAP params=-0.015440/1.102115 center-mag=-0.404460/0.656118/5.548083/1/100.246722 bailout=24110 bailoutest=mod inside=bof61 outside=iter invert=-0.46945595264327/-0.403982157971179/2.23105251789093
+	batch=yes type=magnet1j video=F3 savename=scan sound=no map=DUCER3.MAP params=-0.015953/1.103098 center-mag=-0.418017/0.651906/5.539913/1/100.272649 bailout=24110 bailoutest=mod inside=bof61 outside=iter invert=-0.471211653098347/-0.412383257043453/-3.44998252391815
